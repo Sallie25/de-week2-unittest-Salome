@@ -131,7 +131,7 @@ controller.Total_insulin_delivered
 
 ---
 
-## 🧪 Example Run
+## Example Run
 
 ```python
 print("=============Testing code===================")
@@ -249,6 +249,4 @@ __pycache__/
 **GitHub:** [Sallie25](https://github.com/Sallie25)
 **Project:** Week 2 — Unit Testing Assignment
 
----
 
-Would you like me to add a **checklist section** (like GitHub PR format) at the bottom so you can reuse it in your Pull Request description too?
